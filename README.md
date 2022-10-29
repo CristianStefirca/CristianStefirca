@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Cristian Stefirca</h1>
 <h3 align="center">A passionate junior full stack developer from Romania</h3>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working: on **Fullstack development**
 
-- 🌱 I’m currently learning **Front end frameworks**
+- 🌱 I’m currently learning: **Front end frameworks**
 
-- 👯 I’m looking to collaborate on **Any great project!**
+- 👯 I’m looking to collaborate on: **Any great project!**
 
-- 🤝 I’m looking for help with **FE Frameworks**
+- 🤝 I’m looking for help with: **FE Frameworks**
 
-- 👨‍💻 All of my projects are available at [not available yet!](not available yet!)
+- 👨‍💻 All of my projects are available at: [not available yet!](not available yet!)
 
-- 📝 I regularly write articles on [my GitHub!](my GitHub!)
+- 📝 I regularly write articles on: [my GitHub!](my GitHub!)
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about: **anything!**
 
-- 📫 How to reach me **11dcristianstefirca@gmail.com**
+- 📫 How to reach me: **11dcristianstefirca@gmail.com**
 
-- 📄 Know about my experiences [not available yet!](not available yet!)
+- 📄 Know about my experiences: [not available yet!](not available yet!)
 
-- ⚡ Fun fact **I am super devoted to programming & web dev, and I own a Persian chinchilla cat ! :D**
+- ⚡ Fun fact: **I am super devoted to programming & web dev, and I own a Persian chinchilla cat ! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
