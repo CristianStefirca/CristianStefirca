@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on: **Any great project!**
 
-- 🤝 I’m looking for help with: **FE Frameworks**
+- 🤝 I’m looking for help with: **iOS Frameworks**
 
 - 👨‍💻 All of my projects are available at: here! on github!
 
