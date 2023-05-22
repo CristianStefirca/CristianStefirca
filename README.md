@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: I have experience in HTML / CSS / Javascript / Typescript. Learning and having experience in iOS development & also working as a QA Engineer !
 
-- ⚡ Fun fact: **I am super devoted to programming & web dev, and I own a Persian chinchilla cat ! :D**
+- ⚡ Fun fact: **I am super devoted to programming & mobile dev, and I own a Persian chinchilla cat ! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
