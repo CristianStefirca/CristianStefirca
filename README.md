@@ -9,15 +9,13 @@
 
 - 🤝 I’m looking for help with: **FE Frameworks**
 
-- 👨‍💻 All of my projects are available at: [not available yet!](not available yet!)
-
-- 📝 I regularly write articles on: [my GitHub!](my GitHub!)
+- 👨‍💻 All of my projects are available at: here! on github!
 
 - 💬 Ask me about: **anything!**
 
 - 📫 How to reach me: **11dcristianstefirca@gmail.com**
 
-- 📄 Know about my experiences: [not available yet!](not available yet!)
+- 📄 Know about my experiences: I have experience in HTML / CSS / Javascript / Typescript. Learning and having experience in iOS development & also working as a QA Engineer !
 
 - ⚡ Fun fact: **I am super devoted to programming & web dev, and I own a Persian chinchilla cat ! :D**
 
