@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Stefirca</h1>
 <h3 align="center">A passionate junior full stack developer from Romania</h3>
 
-- 🔭 I’m currently working: on **Fullstack development**
+- 🔭 I’m currently working: on **Fullstack mobile development**
 
-- 🌱 I’m currently learning: **Front end frameworks**
+- 🌱 I’m currently learning: **iOS development**
 
 - 👯 I’m looking to collaborate on: **Any great project!**
 
