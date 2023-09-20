@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cristian Stefirca</h1>
 <h3 align="center">A passionate junior full stack developer from Romania</h3>
 
-- 🔭 I’m currently working: on **Fullstack mobile development**
+- 🔭 I’m currently working: on **QA Engineering tools**
 
-- 🌱 I’m currently learning: **iOS development**
+- 🌱 I’m currently learning: **Going more deep into Playwright**
 
 - 👯 I’m looking to collaborate on: **Any great project!**
 
-- 🤝 I’m looking for help with: **iOS Frameworks**
+- 🤝 I’m looking for help with: **QA automation Frameworks**
 
 - 👨‍💻 All of my projects are available at: here! on github!
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me: **11dcristianstefirca@gmail.com**
 
-- 📄 Know about my experiences: I have experience in HTML / CSS / Javascript / Typescript. Learning and having experience in iOS development & also working as a QA Engineer !
+- 📄 Know about my experiences: I have experience in HTML / CSS ( Tailwind + Bootstrap too! ) / Javascript / Typescript / NodeJS / Manual QA / Automation QA / Swift & SwiftUI & also working as a QA Engineer !
 
-- ⚡ Fun fact: **I am super devoted to programming & mobile dev, and I own a Persian chinchilla cat ! :D**
+- ⚡ Fun fact: **I am super devoted to programming & QAing, and I own a Persian chinchilla cat ! :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
