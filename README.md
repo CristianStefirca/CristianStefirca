@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cristian Stefirca</h1>
-<h3 align="center">A passionate junior full stack developer from Romania</h3>
+<h3 align="center">A passionate QA automation & manual Engineer from Romania</h3>
 
 - 🔭 I’m currently working: on **QA Engineering tools**
 
